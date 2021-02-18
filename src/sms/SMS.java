@@ -17,6 +17,7 @@ public class SMS {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Buenos dias señoras xd");
+        System.out.println("NO SEAS SAPO :V att: Tu papi");
     }
     
 }
